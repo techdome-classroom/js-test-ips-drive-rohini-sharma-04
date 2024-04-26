@@ -16,6 +16,8 @@ function longestSubstring(s) {
 
         longestSubstringLength = Math.max(longestSubstringLength , currentStringSet.size) ;
     }
+
+    return long
 }
 
 module.exports = { longestSubstring };
