@@ -9,6 +9,8 @@ function smallestMissingPositiveInteger(nums) {
         nums[index] = -nums[index] ;
       }
     }
+
+    for(let i=0 ; i<nums.length ;i++)
   
   }
   
