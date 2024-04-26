@@ -14,7 +14,7 @@ function longestSubstring(s) {
             }
         }
 
-        longestSubstringLength = Math.max(longestSubstringLength , currentStringSet.size ;)
+        longestSubstringLength = Math.max(longestSubstringLength , currentStringSet.size) ;
     }
 }
 
