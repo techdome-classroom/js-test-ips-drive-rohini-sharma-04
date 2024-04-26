@@ -10,7 +10,7 @@ function longestSubstring(s) {
                 break ;
             }
             else{
-                currentStringSet.add(s[x])
+                currentStringSet.add(s[x]) ;
             }
         }
     }
