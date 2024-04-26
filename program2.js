@@ -9,6 +9,9 @@ function longestSubstring(s) {
             if(currentStringSet.has(s[x])){
                 break ;
             }
+            else{
+                
+            }
         }
     }
 }
